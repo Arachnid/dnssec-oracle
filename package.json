@@ -27,6 +27,6 @@
     "prepublishOnly": "npx hardhat compile"
   },
   "dependencies": {
-    "dns-packet": "^5.0.4"
+    "dns-packet": "^5.2.2"
   }
 }
